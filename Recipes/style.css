@@ -1,5 +1,5 @@
 p {
-    color:blueviolet;
+    color:white;
 }
 
 h2 {
@@ -7,10 +7,26 @@ h2 {
 }
 
 div {
-    background-color: brown;
-    opacity: 0.6;
+    background-color: purple;
 }
 
 img {
     border-radius: 10px;
+    position: relative;
+    left: 30px;
+}
+
+div1 {
+    display: inline-block;
+    background-color: purple;
+    border: 10px solid black;
+    padding: 35px;
+    margin: 30px;
+}
+
+div2 {
+    background-color: purple;
+    border: 10px solid black;
+    padding: 30px;
+    margin: 30px;
 }
